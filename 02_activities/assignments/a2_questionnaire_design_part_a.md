@@ -16,30 +16,94 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to identify key factors driving high turnover rates among entry- and lower-level employees. By understanding employees' reasons for leaving and gathering feedback on job satisfaction, the company can design strategies to improve retention.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Entry- and lower-level employees at the company, including both current employees and those who have left within the last year.
+
+Sampling Frame: A company database listing all employees in entry- and lower-level roles, segmented by current and recently departed (within the past 12 months).
+
+Sampling Units: Individual employees within the target population.
+
+Observational Units: Survey responses collected from each employee.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+Sampling Strategy:
+
+To ensure representativeness, we would use stratified random sampling. The target population will be divided into two main strata: (1) current employees and (2) former employees who have left within the last year. Within each stratum, employees will be randomly selected to participate, ensuring proportional representation from various departments and levels within entry- and lower-level roles. This approach will allow us to capture both current satisfaction levels and the factors influencing turnover decisions.
+
+1. On a scale of 1 to 10, how satisfied were you with your role at the company (current or most recent)?
+
+    1 [] 2[] 3[] 4[] 5[] 6[] 7[] 8[] 9[] 10[]
+
+2. What factors contributed to your decision to leave or consider leaving the company? (Select all that apply):
+
+    a. Limited growth opportunities
+    b. Work-life balance
+    c. Compensation and benefits
+    d. Company culture
+    e. Management style
+    f. Job responsibilities
+    g. Other (please specify)
+
+3. How often did you feel recognized and appreciated for your work within the company?
+
+    a. Very often
+    b. Sometimes
+    c. Rarely
+    d. Never
+
+4. Were clear opportunities for career advancement available to you within the company?
+
+    a. Yes, definitely
+    b. Somewhat
+    c. No
+
+5. How effective was the training and development support provided by the company in helping you perform your job?
+
+    a. Very effective
+    b. Somewhat effective
+    c. Neutral
+    d. Not very effective
+    e. Not effective at all
+
+6. How would you rate your work-life balance in your role?
+
+    a. Excellent
+    b. Good
+    c. Fair
+    d. Poor
+    e. Very poor
+
+7. What changes do you think the company could implement to improve employee satisfaction?
+
+(Open-ended response)
+
+8. How likely would you be to recommend the company to others as a place to work?
+    
+    a. Very likely
+    b. Somewhat likely
+    c. Neutral
+    d. Unlikely
+    e. Very unlikely
+
+9. Did you feel comfortable raising concerns or giving feedback to your manager?
+
+    a. Yes
+    b. No
+    c. Unsure
+
+10. Is there anything else you would like to share about your experience with the company?
+
+(Open-ended response)
 ```
 
 ## Rubric
