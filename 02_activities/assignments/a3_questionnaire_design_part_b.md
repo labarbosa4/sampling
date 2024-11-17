@@ -4,19 +4,102 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+   
+   The sample should represent our target population well, thanks to stratified random sampling. By separating current employees and recent departures, we capture both perspectives. This dual approach is crucial for understanding turnover. 
+   
+   Random selection within each group also helps reduce bias and we will get a broader range of experiences across departments this way. Still, some limitations may exist as recently departed employees might have different opinions compared to those that are still with the company. They could also be less likely to respond to the survey, impacting overall results.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+
+    The updated survey focuses on making questions clearer, more respectful, and easier to answer. For example, questions were split or rephrased to avoid confusion, and sensitive topics now include options like "Prefer not to answer" to respect privacy. Open-ended questions now have examples to guide responses, and a note about anonymity was added to encourage honesty. Sensitive questions were moved to the middle to create a smoother flow. These tweaks aim to make the survey more approachable while ensuring better, more accurate results.
+
+    
+    "This survey is anonymous, and your responses will remain confidential. No personal identifiers are collected, ensuring your privacy. Thank you for your participation!"
+
+    1. On a scale of 1 to 10, how satisfied were you with your role at the company (current or most recent)?
+    
+    1 [] 2 [] 3 [] 4 [] 5 [] 6 [] 7 [] 8 [] 9 [] 10 []
+    
+    2. What factors contributed to your decision to leave the company?
+    (Select all that apply):
+
+    a. Limited growth opportunities
+    b. Work-life balance
+    c. Compensation and benefits
+    d. Company culture
+    e. Management style
+    f. Job responsibilities
+    g. Other (please specify)
+
+    3. What factors made you consider leaving the company?
+    (Select all that apply):
+
+    a. Limited growth opportunities
+    b. Work-life balance
+    c. Compensation and benefits
+    d. Company culture
+    e. Management style
+    f. Job responsibilities
+    g. Other (please specify)
+
+    4. How often did you feel recognized and appreciated for your work within the company?
+    a. Very often
+    b. Sometimes
+    c. Rarely
+    d. Never
+    
+    5. Were clear opportunities for career advancement available to you within the company?
+    a. Yes, definitely
+    b. Somewhat
+    c. No
+
+    6. How effective was the training and development support provided by the company in helping you perform your job?
+    a. Very effective
+    b. Somewhat effective
+    c. Neutral
+    d. Not very effective
+    e. Not effective at all
+
+    7. How would you rate your work-life balance in your role?
+    a. Excellent
+    b. Good
+    c. Fair
+    d. Poor
+    e. Very poor
+    f. Prefer not to answer
+
+    8. What changes do you think the company could implement to improve employee satisfaction?
+    (e.g., better communication, more training opportunities, improved benefits)
+    (Open-ended response)
+
+    9. How likely would you be to recommend the company to others as a place to work?
+    a. Very likely
+    b. Somewhat likely
+    c. Neutral
+    d. Unlikely
+    e. Very unlikely
+
+    9. How comfortable were you raising concerns or giving feedback to your manager?
+    a. Very comfortable
+    b. Somewhat comfortable
+    c. Neutral
+    d. Somewhat uncomfortable
+    e. Very uncomfortable
+
+    10. Is there anything else you would like to share about your experience with the company?
+(Open-ended response)
+
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    No, this survey’s purpose couldn’t be fully met with just an observational study. Observational studies are better for spotting trends or behaviors as they happen naturally. However, they do not fully show people's motivations, attitudes, or personal reasons. All of the previous atributes are essential for understanding turnover. 
+    
+    Surveys let us go straight to the source, gathering direct feedback and reflections from employees. These insights are not visible through observation alone. While observing could show us who is leaving and when, it would not capture the “why,” which is crucial for designing strategies to improve retention.
     ```
 
 ## Why am I doing this assignment?
